@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diageoshareprice.xyz/sitemap.xml
